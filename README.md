@@ -33,8 +33,7 @@ This is a common Natural Language Processing (NLP) problem and serves as a begin
 
 ## 📂 Dataset
 You can use:
-- [SpamAssassin Public Dataset](https://spamassassin.apache.org/old/publiccorpus/)
-- [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
+mail_data.csv
 
 Make sure to upload the dataset to Google Colab or mount Google Drive.
 
@@ -42,7 +41,7 @@ Make sure to upload the dataset to Google Colab or mount Google Drive.
 
 ## 🚀 How to Run
 1. **Open in Google Colab**  
-   - Upload the `.ipynb` file to your Google Drive or open directly from GitHub.
+   - Upload the `Spam_Mail_Prediction_With_Python.ipynb` file to your Google Drive or open directly from GitHub.
 
 2. **Install Required Libraries**  
    ```python
